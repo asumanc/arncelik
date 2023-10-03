@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Asuman Celik
-- 👀 I’m interested in Artificial Intelligence applications in cancer genomics, especially cancer epigenetics. 
-- 🌱 I’m currently an adjunct faculty at the University of Cincinnati School of Information Technology/Medical Informatics
-- 📫 You can reach me at arncelik@protonmail.com
+- 👀 I’m a research assistant at Stevens Institute of Technology.
+
 
 <!---
 arncelik/arncelik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
